@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "kurs_frontend": {
+      "source": [
+        "src/kurs_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "kurs_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
